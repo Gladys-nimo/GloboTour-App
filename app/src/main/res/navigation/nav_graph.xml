@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/fragmentCityList"
-        android:name="com.sriyank.globotour.city.CityListFragment"
+        android:name="com.Moringa.globotour.city.CityListFragment"
         android:label="@string/top_cities"
         tools:layout="@layout/fragment_city_list" />
 
     <fragment
         android:id="@+id/fragmentFavoriteList"
-        android:name="com.sriyank.globotour.favorite.FavoriteFragment"
+        android:name="com.Moringa.globotour.favorite.FavoriteFragment"
         android:label="@string/favorites"
         tools:layout="@layout/fragment_favorite" />
 
