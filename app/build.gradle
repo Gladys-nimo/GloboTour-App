@@ -49,3 +49,4 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
 
 }
+//The role of an adapter
