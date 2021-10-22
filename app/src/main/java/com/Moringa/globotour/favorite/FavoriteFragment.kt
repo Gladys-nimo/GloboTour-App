@@ -1,4 +1,4 @@
-package com.sriyank.globotour.favorite
+package com.Moringa.globotour.favorite
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,10 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.sriyank.globotour.R
-import com.sriyank.globotour.city.City
-import com.sriyank.globotour.city.VacationSpots
+import com.Moringa.globotour.R
+import com.Moringa.globotour.city.City
+import com.Moringa.globotour.city.VacationSpots
+
 
 
 class FavoriteFragment : Fragment() {

@@ -1,4 +1,4 @@
-package com.sriyank.globotour.favorite
+package com.Moringa.globotour.favorite
 
 import android.content.Context
 import android.util.Log
